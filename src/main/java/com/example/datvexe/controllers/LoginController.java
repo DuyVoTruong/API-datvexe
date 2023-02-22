@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "https://duyvotruong.github.io/Dat-ve-xe-front-end/#")
+@CrossOrigin(origins = "https://duyvotruong.github.io")
 public class LoginController {
     @Autowired
     AuthenticationManager authenticationManager;
