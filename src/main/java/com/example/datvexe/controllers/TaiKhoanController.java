@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://duyvotruong.github.io/Dat-ve-xe-front-end")
 @RequestMapping("/api/taikhoan")
 public class TaiKhoanController {
 

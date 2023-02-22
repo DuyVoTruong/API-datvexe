@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://duyvotruong.github.io/Dat-ve-xe-front-end")
 @RequestMapping("/api/signup")
 public class SignUpController {
 

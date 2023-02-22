@@ -13,7 +13,7 @@ import java.util.List;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://duyvotruong.github.io/Dat-ve-xe-front-end")
 @RequestMapping("api/admin")
 public class AdminController {
     @Autowired
